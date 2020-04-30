@@ -1,4 +1,3 @@
-
 {"Al Aoula Inter HD":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
 "Medi1 Tv":"http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8",
 "2M":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
