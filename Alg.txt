@@ -1,2 +1,2 @@
 {"Al Magharibia TV":"http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8",
-"Ennahar TV" :http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8}
+"Ennahar TV" :"http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8"}
