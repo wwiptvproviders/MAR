@@ -1,2 +1,2 @@
-{"Al magharibia":"https://i.imgur.com/HT0Uvsg.jpg",
-"Ennahar TV " : "https://i.imgur.com/rUY7Wv0.png"}
+{"Al Magharibia TV":"https://i.imgur.com/HT0Uvsg.jpg",
+"Ennahar TV" : "https://i.imgur.com/rUY7Wv0.png"}
