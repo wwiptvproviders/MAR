@@ -7,6 +7,5 @@
 "Almaghribia": "https://i.imgur.com/ebRG8KY.png",
 "Tamazight": "https://i.imgur.com/acffeoY.png",
 "Al Aoula Laayoune":"https://i.imgur.com/NHPeL83.png",
-"Chada TV": "https://i.imgur.com/frdcqkF.png",
 "MAP": "https://i.imgur.com/fTaGHl0.jpg",
 "Télé Maroc":"https://i.imgur.com/Bp7orCn.jpg"}
