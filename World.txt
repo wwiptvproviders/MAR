@@ -4,7 +4,7 @@
 "MBC 2":"http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8" ,
 "MBC 3":"http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8",
 "MBC 4":"http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8" ,
-"MBC 5":"http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8" ,
+"MBC 5":"https://shls-mbc5-prod.shahid.net/mbc5-prod_8.m3u8" ,
 "MBC Max":"http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8" ,
 "MBC Action":"http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8" ,
 "MBC Bollywood":"http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8"}
